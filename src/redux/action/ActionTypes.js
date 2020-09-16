@@ -1,0 +1,17 @@
+export const GET_MAP_PIKACHU = 'GET_MAP_PIKACHU';
+
+export const CLICK_ELEMENT = 'CLICK_ELEMENT';
+
+export const CLICK_ELEMENT_SUCCESS = 'CLICK_ELEMENT_SUCCESS';
+
+export const LEVEL = 'LEVEL';
+
+export const CLICK_POSITION = 'CLICK_POSITION';
+
+export const CLICK_POSITION_SUCCESS = 'CLICK_POSITION_SUCCESS';
+
+export const SCORE = 'SCORE';
+
+export const CLICK_REPLAY_SUCCESS = 'CLICK_REPLAY_SUCCESS';
+
+export const CLICK_REPLAY = 'CLICK_REPLAY';
